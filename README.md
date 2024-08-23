@@ -9,6 +9,7 @@
 1. https://milankl.github.io/
 1. https://gomezalberto.github.io/
 1. https://davidmallasen.com/
+1. https://bmihaljevic.github.io/
 
 ### How-to's
 1. [Cambiar colores / tema](https://github.com/academicpages/academicpages.github.io/issues/137)
