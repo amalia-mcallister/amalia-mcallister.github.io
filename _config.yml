@@ -12,7 +12,7 @@ title                    : "Amalia Jurado Mc Allister"
 title_separator          : "-"
 name                     : &name "Amalia Jurado Mc Allister"
 description              : &description "personal description"
-url                      : "https://amalia-mcallister.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://amalia-mcallister.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amalia-mcallister/amalia-mcallister.github.io"
 
