@@ -1,5 +1,10 @@
 ## Info de Sergito ❤
 
+### Datos básicos
+1. Proveedor dominio: www.porkbun.com
+1. Dominio: https://www.amalia-mcallister.com y https://amalia-mcallister.github.io (default de GitHub)
+1. Plantilla: [github](https://github.com/academicpages/academicpages.github.io) y [web](https://academicpages.github.io)
+
 ### Otras webs para coger ideas:
 1. https://milankl.github.io/
 1. https://gomezalberto.github.io/
