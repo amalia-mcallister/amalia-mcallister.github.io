@@ -1,3 +1,16 @@
+## Info de Sergito ❤
+
+### Otras webs para coger ideas:
+1. https://milankl.github.io/
+1. https://gomezalberto.github.io/
+1. https://davidmallasen.com/
+
+### How-to's
+1. [Cambiar colores / tema](https://github.com/academicpages/academicpages.github.io/issues/137)
+1. [Quitar páginas](https://github.com/academicpages/academicpages.github.io/wiki/Customizing-the-layout-of-your-site)
+
+-----
+
 # Academic Pages
 
 ![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
