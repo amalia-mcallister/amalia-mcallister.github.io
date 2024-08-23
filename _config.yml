@@ -21,7 +21,7 @@ repository               : "amalia-mcallister/amalia-mcallister.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "perfil-lejos.png"
+  avatar           : "perfil_lejos.png"
   name             : "Amalia McAllister"
   pronouns         : # example: "she/her"  
   bio              : "Marine Pollution Manager at CTN"
