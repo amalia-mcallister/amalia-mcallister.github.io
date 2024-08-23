@@ -1,19 +1,20 @@
 ## Info de Sergito ❤
 
 ### Datos básicos
-1. Proveedor dominio: www.porkbun.com
-1. Dominio: https://www.amalia-mcallister.com y https://amalia-mcallister.github.io (default de GitHub)
-1. Plantilla: [github](https://github.com/academicpages/academicpages.github.io) y [web](https://academicpages.github.io)
+- Proveedor dominio: www.porkbun.com
+- Dominio: https://www.amalia-mcallister.com y https://amalia-mcallister.github.io (default de GitHub)
+- Plantilla: [github](https://github.com/academicpages/academicpages.github.io) y [web](https://academicpages.github.io)
 
 ### Otras webs para coger ideas:
-1. https://milankl.github.io/
-1. https://gomezalberto.github.io/
-1. https://davidmallasen.com/
-1. https://bmihaljevic.github.io/
+- https://milankl.github.io/
+- https://gomezalberto.github.io/
+- https://davidmallasen.com/
+- https://bmihaljevic.github.io/
+- https://dgkontopoulos.io/
 
 ### How-to's
-1. [Cambiar colores / tema](https://github.com/academicpages/academicpages.github.io/issues/137)
-1. [Quitar páginas](https://github.com/academicpages/academicpages.github.io/wiki/Customizing-the-layout-of-your-site)
+- [Cambiar colores / tema](https://github.com/academicpages/academicpages.github.io/issues/137)
+- [Quitar páginas](https://github.com/academicpages/academicpages.github.io/wiki/Customizing-the-layout-of-your-site)
 
 -----
 
