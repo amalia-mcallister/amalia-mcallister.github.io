@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "es-ES"
-title                    : "Biologa"
+locale                   : "en-US"
+title                    : "Amalia Jurado Mc Allister"
 title_separator          : "-"
 name                     : &name "Amalia Jurado Mc Allister"
 description              : &description "personal description"
-url                      : https://amalia-mcallister.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.amalia-mcallister.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amalia-mcallister/amalia-mcallister.github.io"
 
@@ -22,13 +22,13 @@ repository               : "amalia-mcallister/amalia-mcallister.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Amalia McAllister"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Marine Pollution Manager at CTN"
   location         : "Murcia - España"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "amalia.mcallister@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -210,13 +210,13 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
@@ -290,7 +290,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Madrid # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
