@@ -25,8 +25,8 @@ author:
   name             : "Amalia McAllister"
   pronouns         : # example: "she/her"  
   bio              : "Marine Pollution Manager at CTN"
-  location         : "Murcia - España"
-  employer         : "Red Brick University"
+  location         : "Murcia - Spain"
+  employer         : "CTN - Centro Tecnológico Naval y del Mar"
   uri              : # URL
   email            : "amalia.mcallister@gmail.com" 
 
@@ -145,9 +145,10 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-FBBELM3963"
+    anonymize_ip         :   false
 
 
 # Reading Files
