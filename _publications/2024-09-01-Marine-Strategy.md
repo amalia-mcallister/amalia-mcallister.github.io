@@ -1,6 +1,7 @@
 ---
 title: "Navigating the Marine Strategy Framework Directive D11: Updates on Threshold Values and Future Perspectives"
 collection: publications
+category: manuscripts
 permalink: /publication/MarineStrategy24
 date: 01-09-2024
 venue: "Leads Of Marine Biology"
