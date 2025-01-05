@@ -3,7 +3,7 @@ title: "Cleome gynandra L. (Cleomaceae), nueva especia alóctona en la flora con
 collection: publications
 category: manuscripts
 permalink: /publication/Cleome-2020
-date: 07-2020
+date: 01-07-2020
 venue: "Flora Montiberica"
 paperurl: "https://dialnet.unirioja.es/servlet/articulo?codigo=7506051&info=resume"
 link: "https://dialnet.unirioja.es/servlet/articulo?codigo=7506051&info=resumen"
