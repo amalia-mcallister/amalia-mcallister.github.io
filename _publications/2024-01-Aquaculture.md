@@ -3,7 +3,7 @@ title: "Sensing Offshore Aquaculture Infrastructures for Data-Driven Dynamic Str
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-Aquaculture
-date: 31-01-2023
+date: 31-01-2024
 venue: "Fishes"
 paperurl: "https://www.mdpi.com/2410-3888/9/2/61"
 link: "https://www.mdpi.com/2410-3888/9/2/61"
