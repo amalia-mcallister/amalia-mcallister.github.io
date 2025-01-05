@@ -1,5 +1,5 @@
 ---
-title: "Resumen de Cleome gynandra L. (Cleomaceae), nueva especia alóctona en la flora continental europea continental"
+title: "Cleome gynandra L. (Cleomaceae), nueva especia alóctona en la flora continental europea continental"
 collection: publications
 category: manuscripts
 permalink: /publication/Cleome-2020
