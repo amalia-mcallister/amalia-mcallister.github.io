@@ -3,7 +3,6 @@ title: "[Presentation] Digi Safe Cage: Intelligent system for predictive mainten
 collection: talks
 type: "Presentation"
 permalink: /talks/2023-11-30-UMU_PRESENTATION
-venue: "Jornadas de Innovación y Trasferencia en Sectores de la Economía Azul"
 date: 2023-11-30
 location: "Murcia University"
 ---
