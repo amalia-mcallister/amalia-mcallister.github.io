@@ -4,6 +4,7 @@ collection: talks
 type: "Presentation"
 permalink: /talks/2023-11-30-UMU_PRESENTATION
 date: 2023-11-30
+venue: 
 location: "Murcia University"
 ---
 
